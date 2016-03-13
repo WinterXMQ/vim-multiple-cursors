@@ -25,8 +25,15 @@
 - [faceleg](https://github.com/faceleg)
 
 ## About
-为了把 Subline Text 的 [多行编辑](http://www.sublimetext.com/docs/2/multiple_selection_with_the_keyboard.html)
-[There](https://github.com/paradigm/vim-multicursor) [have](https://github.com/felixr/vim-multiedit) [been](https://github.com/hlissner/vim-multiedit) [many](https://github.com/adinapoli/vim-markmultiple) [attempts](https://github.com/AndrewRadev/multichange.vim) at bringing Sublime Text's awesome [multiple selection][sublime-multiple-selection] feature into Vim, but none so far have been in my opinion a faithful port that is simplistic to use, yet powerful and intuitive enough for an existing Vim user. [vim-multiple-cursors] is yet another attempt at that.
+有很多插件已经完成了把 Subline Text 的 [多行编辑](http://www.sublimetext.com/docs/2/multiple_selection_with_the_keyboard.html)
+的功能带到 Vim 中，例如:
+[vim-multicursor](https://github.com/paradigm/vim-multicursor),
+[felixr/vim-multiedit](https://github.com/felixr/vim-multiedit),
+[hissner/vim-mutiedit](https://github.com/hlissner/vim-multiedit),
+[vim-markmultiple](https://github.com/adinapoli/vim-markmultiple),
+[multichange](https://github.com/AndrewRadev/multichange.vim)。
+但是到目前为止，在我看来，对于一个现存的 Vim 用户而言，没有一个插件足够简单、强大
+[vim-multiple-cursors] 是这一个特性的另一个尝试。
 
 ### It's great for quick refactoring
 ![Example1](assets/example1.gif?raw=true)
